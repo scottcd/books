@@ -1,0 +1,4 @@
+In Python you can easily use libraries.
+In Python you can print out text.
+In Python you can loop through structures.
+In Python, you can manipulate data in files.
